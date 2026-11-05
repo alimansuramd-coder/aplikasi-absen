@@ -1,0 +1,9 @@
+{
+  "name": "Presensi Guru Pintar - Face Scan & Google Sheets",
+  "description": "Aplikasi Absensi Guru Android berbasis Scan Wajah Biometrik dan GPS terhubung langsung ke Google Sheets dengan database admin dan registrasi guru.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

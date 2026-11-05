@@ -1,0 +1,28 @@
+{
+  "id": "/",
+  "name": "Presensi Guru Pintar - Face Scan",
+  "short_name": "Absen Guru",
+  "description": "Aplikasi Absensi Guru Android berbasis Scan Wajah Biometrik dan GPS terhubung langsung ke Google Sheets.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#1e40af",
+  "lang": "id",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
